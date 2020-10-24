@@ -1,6 +1,5 @@
 # Email-Supplant
-
-# Email-Suppalt It is a tool to hack Email passwords using brute force # how to install 
+Email-Suppalt It is a tool to hack Email passwords using brute force # how to install 
 
 # We clone the github repository with:
  
